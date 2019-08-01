@@ -1,0 +1,8 @@
+# [[Getting Started]]
+# [[Standard YAML mappings]]
+# [[Inbuilt Cleaning Methods]]
+# [[Priority Field Mapping]]
+# [[Local Code Transformation in YAML Mappings]]
+# [[Non Tabular Mappings]]
+# [[Date Formats]]
+
